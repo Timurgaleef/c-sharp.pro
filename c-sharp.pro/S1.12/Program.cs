@@ -4,17 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace c_sharp.pro
+namespace S1._12
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            double a = 1.23;
 
-            Console.WriteLine(a);
+
+            Console.WriteLine("5 10");
+
+            Console.WriteLine("7 см");
 
             Console.ReadLine();
+
 
 
 

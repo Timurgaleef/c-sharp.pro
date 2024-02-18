@@ -4,23 +4,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace c_sharp.pro
+namespace S1._7
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            double a = 1.23;
+            int[] numbers = {  23,  31,  44,  };
 
-            Console.WriteLine(a);
+
+            Console.Write($"{numbers[0]}  {numbers[1]}  {numbers[2]}");
+
+
+
+
+
+
+
 
             Console.ReadLine();
-
-
-
-
-
-
         }
+
     }
 }

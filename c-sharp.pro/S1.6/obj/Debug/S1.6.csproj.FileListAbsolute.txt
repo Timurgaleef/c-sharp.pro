@@ -1,0 +1,7 @@
+D:\Project\c-sharp.pro\c-sharp.pro\S1.6\bin\Debug\S1.6.exe.config
+D:\Project\c-sharp.pro\c-sharp.pro\S1.6\bin\Debug\S1.6.exe
+D:\Project\c-sharp.pro\c-sharp.pro\S1.6\bin\Debug\S1.6.pdb
+D:\Project\c-sharp.pro\c-sharp.pro\S1.6\obj\Debug\S1.6.csproj.AssemblyReference.cache
+D:\Project\c-sharp.pro\c-sharp.pro\S1.6\obj\Debug\S1.6.csproj.CoreCompileInputs.cache
+D:\Project\c-sharp.pro\c-sharp.pro\S1.6\obj\Debug\S1.6.exe
+D:\Project\c-sharp.pro\c-sharp.pro\S1.6\obj\Debug\S1.6.pdb

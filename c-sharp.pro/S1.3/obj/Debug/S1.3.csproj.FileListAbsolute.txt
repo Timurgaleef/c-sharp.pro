@@ -1,0 +1,7 @@
+D:\Project\c-sharp.pro\c-sharp.pro\S1.3\bin\Debug\S1.3.exe.config
+D:\Project\c-sharp.pro\c-sharp.pro\S1.3\bin\Debug\S1.3.exe
+D:\Project\c-sharp.pro\c-sharp.pro\S1.3\bin\Debug\S1.3.pdb
+D:\Project\c-sharp.pro\c-sharp.pro\S1.3\obj\Debug\S1.3.csproj.AssemblyReference.cache
+D:\Project\c-sharp.pro\c-sharp.pro\S1.3\obj\Debug\S1.3.csproj.CoreCompileInputs.cache
+D:\Project\c-sharp.pro\c-sharp.pro\S1.3\obj\Debug\S1.3.exe
+D:\Project\c-sharp.pro\c-sharp.pro\S1.3\obj\Debug\S1.3.pdb

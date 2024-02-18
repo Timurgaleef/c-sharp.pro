@@ -4,17 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace c_sharp.pro
+namespace S1._13
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            double a = 1.23;
 
-            Console.WriteLine(a);
+
+
+
+            Console.WriteLine("2 кг");
+
+            Console.WriteLine("13 17");
 
             Console.ReadLine();
+
 
 
 
